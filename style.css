@@ -65,4 +65,42 @@
 
    /* ログインフォーム*/
 
+   .login-form{
+   background-color:black;
+   color: aliceblue;
    
+   
+   }
+   .section-headline{
+    margin-left: 20px;
+   }
+
+   .input{
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-top: 5px;
+    margin-left: 20px ;
+    margin-bottom: 15px;
+    min-width: 500px;
+    
+   }
+
+   .email-tittle{
+    margin-left: 20PX;
+    
+   }
+
+   .Password-tittle{
+    margin-left: 20PX;
+    
+   }
+   
+   label{
+    margin-bottom: 1px;
+  
+  }
+
+.form-button{
+  display: inline-block;
+}
