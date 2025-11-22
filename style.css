@@ -68,6 +68,7 @@
    .login-form{
    background-color:black;
    color: aliceblue;
+   margin: 0px;
    
    
    }
@@ -88,12 +89,13 @@
 
    .email-tittle{
     margin-left: 20PX;
+    font-size: x-large;
     
    }
 
    .Password-tittle{
     margin-left: 20PX;
-    
+    font-size: x-large;
    }
    
    label{
@@ -101,6 +103,20 @@
   
   }
 
-.form-button{
-  display: inline-block;
+
+
+.button {
+  display: block;
+  padding: 12px 215px;
+  background: skyblue;
+  color: #fff;
+  border-radius: 5px;
+  font-size: large;
+  text-align: center;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+
+.singup-link{
+ margin-left: 20px;
 }
